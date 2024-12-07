@@ -13,7 +13,7 @@ main:
 #   allocated for "array".
 # summary of register use:
 #  s0 = arraySize
-#  s1 = option: 0 - clear array, 1 increment array items by 1
+#  s1 = option:  0 - clear array, 1 increment array items by 1
 #  s2 = stepSize
 #  s3 = repCount - number of times to repeat
 # -------
